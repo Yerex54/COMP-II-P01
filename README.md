@@ -53,7 +53,7 @@ On startup, choose one of the following options:
 ├── Board.py     # Board class: cell validation and value lookup
 ├── Game.py      # Game logic: win/loss detection, display, interaction
 ├── Solver.py    # BFS and A* algorithms for automatic solving
-├── Test.py      # Unit tests (25 tests, all passing)
+├── Test.py      # Unit tests (24 tests, all passing)
 └── README.md    # This file
 ```
 
